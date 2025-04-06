@@ -2,7 +2,7 @@
 
 Код [link](https://github.com/AnnaPakir/animals/blob/main/animals.ipynb)
 
-Отчет 
+Отчет [link](https://github.com/AnnaPakir/animals/blob/main/%D0%9B%D0%B0%D0%B1.%203.pdf)
 
 В данной работе был произведен эксперимент по созданию сверточной нейронной сети для многоклассовой классификации изображений.
 
